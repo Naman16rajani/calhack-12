@@ -1,0 +1,6 @@
+modal
+pydantic
+numpy
+fastapi
+# chatterbox-tts
+torchaudio
