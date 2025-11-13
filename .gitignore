@@ -24,8 +24,6 @@ pnpm-debug.log*
 !.vscode/extensions.json
 *.sublime-workspace
 
-*.mp4
-*.wav
 
 # Frontend (evo2-frontend - Next.js)
 frontend/node_modules/
